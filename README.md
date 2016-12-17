@@ -1,2 +1,2 @@
-# GameDev-WesterMiniShooter
-Wester Mini Shooter Game made with Unity
+# Western Mini Shooter
+Western Mini Shooter Game made with Unity
